@@ -37,7 +37,7 @@
 #define HAVE_FCNTL 1
 
 /* Define if you have the getpwent function. */
-#define HAVE_GETPWENT 1
+//#define HAVE_GETPWENT 1
 
 /* Define if you have the getpwnam function. */
 #define HAVE_GETPWNAM 1
